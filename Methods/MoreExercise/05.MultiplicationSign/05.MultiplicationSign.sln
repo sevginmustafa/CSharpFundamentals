@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.MultiplicationSign", "05.MultiplicationSign\05.MultiplicationSign.csproj", "{223E739F-A858-4855-A58E-C72D62DA0ABE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{223E739F-A858-4855-A58E-C72D62DA0ABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{223E739F-A858-4855-A58E-C72D62DA0ABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{223E739F-A858-4855-A58E-C72D62DA0ABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{223E739F-A858-4855-A58E-C72D62DA0ABE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F024DCF0-D8A0-4CF8-8CA5-097B91514421}
+	EndGlobalSection
+EndGlobal

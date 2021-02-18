@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.GaussTrick", "02.GaussTrick\02.GaussTrick.csproj", "{AB6D3956-A303-4BC3-AD38-F0E8A866EF12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB6D3956-A303-4BC3-AD38-F0E8A866EF12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB6D3956-A303-4BC3-AD38-F0E8A866EF12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB6D3956-A303-4BC3-AD38-F0E8A866EF12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB6D3956-A303-4BC3-AD38-F0E8A866EF12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0DCBDE4-8E32-4DB2-9140-262DCEF0E77C}
+	EndGlobalSection
+EndGlobal

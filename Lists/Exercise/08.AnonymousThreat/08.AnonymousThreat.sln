@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.AnonymousThreat", "08.AnonymousThreat\08.AnonymousThreat.csproj", "{B0756F96-82D8-4FA0-9866-96B7A4B123BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0756F96-82D8-4FA0-9866-96B7A4B123BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0756F96-82D8-4FA0-9866-96B7A4B123BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0756F96-82D8-4FA0-9866-96B7A4B123BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0756F96-82D8-4FA0-9866-96B7A4B123BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1945D6D1-DF84-4423-90C1-96F6791464AD}
+	EndGlobalSection
+EndGlobal
