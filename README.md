@@ -1,2 +1,2 @@
 # CSharpFundamentals
-C# Fundamentals Course from May 202
+C# Fundamentals Course from May 2
