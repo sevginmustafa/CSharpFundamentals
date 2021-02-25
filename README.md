@@ -1,2 +1,2 @@
 # CSharpFundamentals
-C# Fundamentals C
+C# Fundamentals
