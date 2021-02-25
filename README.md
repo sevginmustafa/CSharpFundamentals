@@ -1,2 +1,2 @@
 # CSharpFundamentals
-C# Fundamentals Course fr
+C# Fundamentals Course 
