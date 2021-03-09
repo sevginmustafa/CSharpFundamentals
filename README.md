@@ -1,2 +1,2 @@
 # CSharpFundamentals
-C# Fundamentals Cour
+C# Fundamentals Co
